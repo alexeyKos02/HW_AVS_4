@@ -2,7 +2,7 @@
 
 Вариант №3
 
-![image](https://user-images.githubusercontent.com/96993075/207099502-e18b81ba-91e5-4bec-9401-a990b5ac0344.png)
+![image](images/4.png)
 
 ---
 
